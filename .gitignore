@@ -1,0 +1,10 @@
+.venv/
+.env
+chrome_profile/
+logs/
+__pycache__/
+*.pyc
+downloads/*
+downloads/.*
+!downloads/.gitkeep
+!downloads/local_kit.py
